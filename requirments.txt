@@ -1,0 +1,8 @@
+mypy
+black
+pytest
+pre-commit
+prospector
+pylint
+pytest-cov
+seed-isort-config
